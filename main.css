@@ -1,0 +1,12 @@
+.buttonlar{
+    background-color: #00BAFC;
+    border-radius: 15px;
+    border: 1px solid;
+    margin: 10px;
+    padding: 5px;
+}
+
+.form{
+    margin: 10px;
+    padding: 10px;
+}
